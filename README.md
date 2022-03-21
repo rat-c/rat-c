@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="https://github.com/ratcode404/ratcode404/ratcode404.png">
 
 ### Hey!
 
