@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/ratcode404/ratcode404/ratcode404.png">
+<img align="left" src="https://github.com/ratcode404/ratcode404/blob/main/ratcode404.png">
 
 ### Hey!
 
