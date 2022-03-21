@@ -2,4 +2,7 @@
 
 hi, i'm [ratcode404](http://ratcode404.github.io), and i am reminding you that 'qwerty' is a bad password.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?usernameratcode404&show_icons=true&theme=gotham" alt="ratcode404" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ratcode404&show_icons=true&theme=gotham" alt="ratcode404" />
+ 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratcode404)](https://github.com/anuraghazra/github-readme-stats)
+
