@@ -1,6 +1,10 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-hi, i'm [ratcode404](http://ratcode404.github.io), and i am reminding you that 'qwerty' is a bad password.
+### Hey!
+
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/orhun.gpg)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ratcode404&show_icons=true&theme=gotham&hide=issues,contribs&bg_color=00000000"/>
 
