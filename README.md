@@ -8,4 +8,4 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ratcode404&show_icons=true&theme=gotham&hide=issues,contribs&bg_color=00000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratcode404&show_icons=true&theme=gotham&bg_color=00000000&langs_count=6">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ratcode404&theme=darcula&hide_border=true&background=FFFFFF00">
