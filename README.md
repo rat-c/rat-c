@@ -8,5 +8,5 @@ I'm someone who is passionate about **cybersec** and has a [small blog](https://
   
 <img src="https://github-readme-stats.vercel.app/api?username=ratcode404&show_icons=true&theme=gotham&hide=issues,contribs&bg_color=00000000"/>
 
-[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=ratcode404)]
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=ratcode404)
 
