@@ -1,6 +1,14 @@
-<img align="left" src="https://github.com/ratcode404/ratcode404/blob/main/ratcode.png" height="120">
+hi i'm rat. <br>
+i'm a threat analyst and write offensive tools
 
-### Hey!
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rat-c&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rat-c&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
+
+
 
 I'm someone who is passionate about **cybersec** and has a [small blog](https://ratcode404.github.io/).
 
